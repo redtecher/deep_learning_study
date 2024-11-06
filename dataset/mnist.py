@@ -10,7 +10,7 @@ import os
 import numpy as np
 
 
-url_base = 'https://github.com/hamlinzheng/mnist/tree/master/dataset/'
+url_base = 'https://github.com/WegraLee/deep-learning-from-scratch/raw/master/dataset/'
 key_file = {
     'train_img':'train-images-idx3-ubyte.gz',
     'train_label':'train-labels-idx1-ubyte.gz',

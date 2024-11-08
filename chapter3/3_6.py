@@ -61,18 +61,9 @@ def predict(network, x):
 
 if __name__=='__main__':
     
-    # img = x_train[0]
-    # label = t_train[0]
-    # print(label)
-    # print(img)
-    # img = img.reshape(28,28)
-    # print(img.shape)
-    # img_show(img)
     x,t=get_data()
     network = init_network()
     accuracy_cnt =0
-    # for i in range(len(x)):
-    #     y = predict(network=network,x=x)
     print(x.shape)
     print(t.shape)
     accuracy_cnt = 0

@@ -6,3 +6,7 @@
 ## chapter2：感知机
 
 ## chapter3: 神经网络
+
+## chapter4: 神经网络的学习
+
+## chapter5: 误差反向传播法
